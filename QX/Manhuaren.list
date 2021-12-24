@@ -1,8 +1,8 @@
 # 漫画人去广告 搬运自https://github.com/jimmyorz/Surge.git
 
-DOMAIN-SUFFIX,adsapi.manhuaren.com
-DOMAIN-SUFFIX,hkadsapi.manhuaren.com
-DOMAIN-SUFFIX,videoapi.manhuaren.com
-DOMAIN-SUFFIX,bi.manhuaren.com
-DOMAIN-SUFFIX,euadsapi.manhuaren
-DOMAIN-SUFFIX,applog.uc.cn
+host-suffix, hkadsapi.manhuaren.com, REJECT
+host-suffix, adsapi.manhuaren.com, REJECT
+host-suffix, videoapi.manhuaren.com, REJECT
+host-suffix, bi.manhuaren.com, REJECT
+host-suffix, euadsapi.manhuaren, REJECT
+host-suffix, applog.uc.cn, REJECT
