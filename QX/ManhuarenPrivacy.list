@@ -1,13 +1,13 @@
 # 阻挡漫画人追踪器 搬运自https://github.com/jimmyorz/Surge.git
 
-host-suffix, errlog.umeng.com
-host-suffix, sdk.adtiming.com
-host-suffix, pangolin16.sgsnssdk.com
-host-suffix, rayjump.com
-Host-keyword, umeng
-host-suffix, admost.com
-host-suffix, applovefrom.com
-host-suffix, pubnative.info
-host-suffix, pubnative.net
-host-suffix, sf-tb-sg.ibytedtos.com
-host-suffix, dm16-alisg.byteoversea.com
+host-suffix, errlog.umeng.com, reject-200
+host-suffix, sdk.adtiming.com, reject-200
+host-suffix, pangolin16.sgsnssdk.com, reject-200
+host-suffix, rayjump.com, reject-200
+host-keyword, umeng, reject
+host-suffix, admost.com, reject
+host-suffix, applovefrom.com, reject
+host-suffix, pubnative.info, reject
+host-suffix, pubnative.net, reject
+host-suffix, sf-tb-sg.ibytedtos.com, reject
+host-suffix, dm16-alisg.byteoversea.com, reject
