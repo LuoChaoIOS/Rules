@@ -11,3 +11,6 @@ host-suffix, pubnative.info, REJECT
 host-suffix, pubnative.net, REJECT
 host-suffix, sf-tb-sg.ibytedtos.com, REJECT
 host-suffix, dm16-alisg.byteoversea.com, REJECT
+host-suffix, openmediation.com, REJECT
+host-suffix, panel.io, REJECT
+host-suffix, pglstatp.com, REJECT
