@@ -4,4 +4,4 @@
 host-suffix, googleads.g.doubleclick.net, REJECT
 host-suffix, www.19831110.com, REJECT
 #HTTP
-AND,((USER-AGENT,%E8%8D%9F%E8%81%9A%E5%8A%A8%E6%BC%AB*), (URL-REGEX,\/ad)), REJECT
+# AND,((USER-AGENT,%E8%8D%9F%E8%81%9A%E5%8A%A8%E6%BC%AB*), (URL-REGEX,\/ad)), REJECT
