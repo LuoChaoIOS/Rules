@@ -1,0 +1,4 @@
+# 荟聚动漫去广告 https://github.com/NobyDa/Script.git
+
+host-suffix, googleads.g.doubleclick.net, REJECT
+host-suffix, www.19831110.com, REJECT
