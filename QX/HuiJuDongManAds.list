@@ -1,7 +1,15 @@
 # 荟聚动漫去广告 https://github.com/NobyDa/Script.git
 
+#检测
+host, www.umeng.com, DIRECT
+host, www.adview.cn, DIRECT
+host, adview.cn, DIRECT
+
 #底栏
 host-suffix, googleads.g.doubleclick.net, REJECT
 host-suffix, www.19831110.com, REJECT
+
+# 下方 surge 的规则 怎么转换？先用下面这条替换试试
+host-suffix, admobile.top, REJECT
 #HTTP
 # AND,((USER-AGENT,%E8%8D%9F%E8%81%9A%E5%8A%A8%E6%BC%AB*), (URL-REGEX,\/ad)), REJECT
