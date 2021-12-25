@@ -1,0 +1,5 @@
+# 漫画人代理 搬运自https://github.com/jimmyorz/Surge.git
+
+host, subaccountapi.manhuaren.com, PROXY
+host, mangaapi.manhuaren.com, PROXY
+host, manhuaren.com, PROXY
