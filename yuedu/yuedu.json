@@ -1,0 +1,141 @@
+[{
+   "bookSourceComment": "IOS阅读APP源阅读交流:103120951\n\nbt--692",
+   "bookSourceGroup": "18+",
+   "bookSourceName": "看客网",
+   "bookSourceType": 0,
+   "bookSourceUrl": "http:\/\/www.kankeo.com\/",
+   "customOrder": 4,
+   "enabled": true,
+   "enabledExplore": true,
+   "exploreUrl": "玄幻·奇幻::http:\/\/www.kankeo.com\/sort\/1\/{{page}}.html\n武侠·仙侠::http:\/\/www.kankeo.com\/sort\/2\/{{page}}.html\n都市·言情::http:\/\/www.kankeo.com\/sort\/3\/{{page}}.html\n历史·军事::http:\/\/www.kankeo.com\/sort\/4\/{{page}}.html\n穿越·架空::http:\/\/www.kankeo.com\/sort\/5\/{{page}}.html\n网游·竞技::http:\/\/www.kankeo.com\/sort\/6\/{{page}}.html\n科幻·灵异::http:\/\/www.kankeo.com\/sort\/7\/{{page}}.html\n同人·动漫::http:\/\/www.kankeo.com\/sort\/8\/{{page}}.html\n夫妻·人妻::http:\/\/www.kankeo.com\/sort\/9\/{{page}}.html\n综合·其他::http:\/\/www.kankeo.com\/sort\/10\/{{page}}.html",
+   "lastUpdateTime": 1639752056676,
+   "respondTime": 180000,
+   "ruleBookInfo": {
+       "tocUrl": "text.点击阅读@href"
+   },
+   "ruleContent": {
+       "content": "id.acontent@html"
+   },
+   "ruleExplore": {
+       "name": "class.c_subject@tag.a.0@text"
+   },
+   "ruleSearch": {
+       "author": "class.c_tag.0@tag.span.1@ownText",
+       "bookList": "class.c_row",
+       "bookUrl": "class.fl@tag.a@href",
+       "coverUrl": "class.fl@tag.a@img@src",
+       "intro": "class.c_description@text",
+       "kind": "class.c_tag.0@tag.span.3@ownText",
+       "lastChapter": "class.c_tag.1@tag.span.1@text",
+       "name": "class.c_subject@text##",
+       "wordCount": "class.c_tag.0@tag.span.5@ownText"
+   },
+   "ruleToc": {
+       "chapterList": "class.index@tag.dd@a",
+       "chapterName": "text",
+       "chapterUrl": "href"
+   },
+   "searchUrl": "http:\/\/www.kankeo.com\/modules\/article\/search.php,{\n\"charset\": \"utf-8\",\n\"method\": \"POST\",\n\"body\": \"searchtype=all&searchkey={{key}}&t_btnsearch=\"\n}",
+   "weight": 0
+},
+{
+    "bookSourceComment": "",
+    "bookSourceName": "笔趣阁v7xs",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http:\/\/m.v7xs.com",
+    "customOrder": -292900,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "玄幻奇幻::\/xuanhuan\/<,index_{{page}}.html>\n武侠仙侠::\/wuxia\/<,index_{{page}}.html>\n都市生活::\/dushi\/<,index_{{page}}.html>\n历史军事::\/junshi\/<,index_{{page}}.html>\n游戏竞技::\/youxi\/<,index_{{page}}.html>\n科幻灵异::\/kehuan\/<,index_{{page}}.html>\n古代言情::\/guyan\/<,index_{{page}}.html>\n现代言情::\/xianyan\/<,index_{{page}}.html>\n青春校园::\/xiaoyuan\/<,index_{{page}}.html>\n幻想奇缘::\/huanxiang\/<,index_{{page}}.html>\n耽美同人::\/danmei\/<,index_{{page}}.html>\n乡村爱情::\/xiangcun\/<,index_{{page}}.html>\n惊秫恐怖::\/kongbu\/<,index_{{page}}.html>\n穿越架空::\/chuanyue\/<,index_{{page}}.html>\n悬疑推理::\/xuanyi\/<,index_{{page}}.html>",
+    "lastUpdateTime": 1641219969188,
+    "respondTime": 180000,
+    "ruleBookInfo": {
+        "author": "[property=\"og:novel:author\"]@content",
+        "intro": ".bookintro@text",
+        "kind": "[property=\"og:novel:category\"]@content",
+        "lastChapter": "[property=\"og:novel:latest_chapter_name\"]@content",
+        "name": "[property=\"og:novel:book_name\"]@content",
+        "tocUrl": ".btn_book@a@href"
+    },
+    "ruleContent": {
+        "content": "#content@html",
+        "nextContentUrl": "text.下一页@href"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+        "author": ".book_other@textNodes",
+        "bookList": "#sitebox@dl",
+        "bookUrl": "a@href",
+        "coverUrl": "img@src",
+        "intro": ".book_des@text",
+        "kind": ".uptime@text",
+        "name": "h3@a@text",
+        "wordCount": ".book_other@span@text"
+    },
+    "ruleToc": {
+        "chapterList": ".readlist li a",
+        "chapterName": "text",
+        "chapterUrl": "href",
+        "nextTocUrl": ".pg-next@href"
+    },
+    "searchUrl": "http:\/\/m.v7xs.com\/e\/search\/?keyboard={{key}}&classid=0&searchget=1&show=title,author",
+    "weight": 0
+},
+{
+    "bookSourceUrl": "https:\/\/aabook.xyz",
+    "bookSourceType": "0",
+    "bookSourceName": "📙疯情书库✈️",
+    "bookSourceGroup": "📙禁书",
+    "bookSourceComment": "꧁♚无聊的我♚꧂",
+    "loginUrl": "",
+    "loginUi": "",
+    "loginCheckJs": "",
+    "concurrentRate": "",
+    "header": "",
+    "bookUrlPattern": "",
+    "searchUrl": "https:\/\/aabook.xyz\/search.php?searchword={{key}}",
+    "exploreUrl": "[\n{\"title\":\"玄幻\",\n\"url\":\"category.php?t=xuanhuan&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"职场\",\n\"url\":\"category.php?t=zhichang&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"古典\",\n\"url\":\"category.php?t=gudian&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"惊悚\",\n\"url\":\"category.php?t=jingsong&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"网游\",\n\"url\":\"category.php?t=wangyou&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"乡土\",\n\"url\":\"category.php?t=xiangtu&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"历史\",\n\"url\":\"category.php?t=lishi&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"耽美\",\n\"url\":\"category.php?t=danmei&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"女尊\",\n\"url\":\"category.php?t=nvzun&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"穿越\",\n\"url\":\"category.php?t=chuanyue&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"同人\",\n\"url\":\"category.php?t=tongren&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"校园\",\n\"url\":\"category.php?t=xiaoyuan&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"言情\",\n\"url\":\"category.php?t=yanqing&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"官场\",\n\"url\":\"category.php?t=guanchang&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"异能\",\n\"url\":\"category.php?t=yineng&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"都市\",\n\"url\":\"category.php?t=dushi&p={{page}}\",\n\"style\":{\"layout_flexGrow\":1}},\n\n{\"title\":\"武侠\",\n\"url\":\"category.php?t=wuxia&p={{page}}\",\n\"style\":{\"layout_flexBasisPercent\":0.21}},\n\n{\"title\":\"仙侠\",\n\"url\":\"category.php?t=xianxia&p={{page}}\",\n\"style\":{\"layout_flexBasisPercent\":0.21}},\n\n{\"title\":\"单篇\",\n\"url\":\"category.php?t=danpian&p={{page}}\",\n\"style\":{\"layout_flexBasisPercent\":0.21}}\n]",
+    "enabled": true,
+    "enabledExplore": true,
+    "weight": 0,
+    "customOrder": -88888888,
+    "lastUpdateTime": 1636106235550,
+    "ruleSearch": {
+        "bookList": ".sousuojieguo ul li",
+        "name": ".biaoti@text",
+        "author": ".zuozhe@text",
+        "kind": "textNodes&&cite@text##\\[|\\]|小说",
+        "coverUrl": "a.0@href##(\\d+)##https:\/\/aabook.xyz\/img-$1.jpg###",
+        "bookUrl": "a.0@href"
+    },
+    "ruleExplore": {
+        "bookList": ".list_main tbody tr",
+        "name": ".shuming@text",
+        "author": ".author@text",
+        "kind": ".fenlei@text&&.update@text##\\[|\\]|...:.*",
+        "lastChapter": ".s3@text",
+        "coverUrl": "a.0@href##(\\d+)##https:\/\/aabook.xyz\/img-$1.jpg###",
+        "bookUrl": "a.0@href"
+    },
+    "ruleBookInfo": {
+        "init": "@put:{\nn:\".book_name@text\",\na:\".author@text\",\nk:\".xinxi_content span.0:1@text&&.update_time@text\",\nw:\".xinxi_content span.2@text\",\nl:\".dt_l a.0@text\",\ni:\".jianjieneirong@html\",\nc:\".book_info_top_l img@src\",\nu:\".xiaoshuomulu a@href\"\n}",
+        "name": "@get:{n}",
+        "author": "@get:{a}",
+        "kind": "@get:{k}##创建时间\\s|...:.*|中|已",
+        "wordCount": "@get:{w}##字",
+        "lastChapter": "@get:{l}",
+        "intro": "<br>@get:{i}##\\s\\s##<br>",
+        "coverUrl": "@get:{c}",
+        "tocUrl": "https://aabook.xyz/@get:{u}"
+    },
+    "ruleToc": {
+        "chapterList": "ul.section_list li a",
+        "chapterName": "text",
+        "chapterUrl": "href##$##,{\"webView\":\"true\"}",
+        "updateTime": "title"
+    },
+    "ruleContent": {
+        "content": ".chapter_con p@text##[feng|疯].*?库|book.*?net",
+        "replaceRegex": "##，\\s\\s\\s##，"
+    }
+}]
