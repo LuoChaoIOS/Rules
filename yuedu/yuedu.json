@@ -263,4 +263,51 @@
     },
     "searchUrl": "http:\/\/sinaappxx6.q236.cn\/post\/GetInfo,{\n\"charset\": \"\",\n\"method\": \"POST\",\n\"body\": \"keyValue={{key}}\"\n}",
     "weight": 0
+},
+{
+    "bookSourceComment": "1,未净化\n2,正文内容为空请刷新一下",
+    "bookSourceGroup": "自制",
+    "bookSourceName": "AA阅读",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https:\/\/aaread.space",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "最近更新::\/all?pageNum={{page}}&pageSize=14&catId=-1&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=update\n总热销榜::\/rank\/hotsales?pageNum={{page}}\n总风云榜::\/rank\/yuepiao?pageNum={{page}}\n新书热榜::\/rank\/newbook?pageNum={{page}}\n总推荐榜::\/rank\/recom?pageNum={{page}}\n总完本榜::\/rank\/finish?pageNum={{page}}\n总更新榜::\/rank\/update?pageNum={{page}}\n总打赏榜::\/rank\/reward?pageNum={{page}}\n总点击榜::\/rank\/click?pageNum={{page}}\n总收藏榜::\/rank\/collect?pageNum={{page}}\n总字数榜::\/all?pageNum={{page}}&pageSize=14&catId=-1&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=wordcount\n全部小说::\/all?catId=-1&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1&pageNum={{page}}\n完本小说::\/all?catId=-1&size=-1&isFinish=1&updT=-1&isVip=-1&orderBy=-1&pageNum={{page}}\n玄幻仙侠::\/all?pageNum={{page}}&pageSize=14&catId=%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n官场职场::\/all?pageNum={{page}}&pageSize=14&catId=%E5%AE%98%E5%9C%BA%E8%81%8C%E5%9C%BA&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n历史古典::\/all?pageNum={{page}}&pageSize=14&catId=%E5%8E%86%E5%8F%B2%E5%8F%A4%E5%85%B8&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n惊悚灵异::\/all?pageNum={{page}}&pageSize=14&catId=%E6%83%8A%E6%82%9A%E7%81%B5%E5%BC%82&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n穿越同人::\/all?pageNum={{page}}&pageSize=14&catId=%E7%A9%BF%E8%B6%8A%E5%90%8C%E4%BA%BA&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n生活都市::\/all?pageNum={{page}}&pageSize=14&catId=%E7%94%9F%E6%B4%BB%E9%83%BD%E5%B8%82&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n耽美女尊::\/all?pageNum={{page}}&pageSize=14&catId=%E8%80%BD%E7%BE%8E%E5%A5%B3%E5%B0%8A&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n言情校园::\/all?pageNum={{page}}&pageSize=14&catId=%E8%A8%80%E6%83%85%E6%A0%A1%E5%9B%AD&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n玄幻小说::\/all?pageNum={{page}}&pageSize=14&catId=xuanhuan&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n职场小说::\/all?pageNum={{page}}&pageSize=14&catId=zhichang&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n古典小说::\/all?pageNum={{page}}&pageSize=14&catId=gudian&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n惊悚小说::\/all?pageNum={{page}}&pageSize=14&catId=jingsong&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n网游小说::\/all?pageNum={{page}}&pageSize=14&catId=wangyou&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n乡土小说::\/all?pageNum={{page}}&pageSize=14&catId=xiangtu&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n历史小说::\/all?pageNum={{page}}&pageSize=14&catId=lishi&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n耽美小说::\/all?pageNum={{page}}&pageSize=14&catId=danmei&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n女尊小说::\/all?pageNum={{page}}&pageSize=14&catId=nvzun&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n穿越小说::\/all?pageNum={{page}}&pageSize=14&catId=chuanyue&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n同人小说::\/all?pageNum={{page}}&pageSize=14&catId=tongren&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n校园小说::\/all?pageNum={{page}}&pageSize=14&catId=xiaoyuan&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n言情小说::\/all?pageNum={{page}}&pageSize=14&catId=yanqing&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n官场小说::\/all?pageNum={{page}}&pageSize=14&catId=guanchang&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n异能小说::\/all?pageNum={{page}}&pageSize=14&catId=yineng&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n都市小说::\/all?pageNum={{page}}&pageSize=14&catId=dushi&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n武侠小说::\/all?pageNum={{page}}&pageSize=14&catId=wuxia&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n仙侠小说::\/all?pageNum={{page}}&pageSize=14&catId=xianxia&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1\n单篇小说::\/all?pageNum={{page}}&pageSize=14&catId=danpian&size=-1&isFinish=-1&updT=-1&isVip=-1&orderBy=-1",
+    "lastUpdateTime": 1633391016495,
+    "loginUrl": "",
+    "respondTime": 180000,
+    "ruleBookInfo": {
+        "author": "h1@a@text",
+        "coverUrl": "id.bookImg@img@src",
+        "intro": "class.intro@text",
+        "kind": "class.tag@i@text",
+        "lastChapter": "class.update@a@text##更新至\\s",
+        "name": "h1@em@text",
+        "wordCount": "class.total@text"
+    },
+    "ruleContent": {
+        "content": "class.read-content@p@html##疯情书库|疯情 书ku|book.aavideo.net"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+        "author": "class.name default@text",
+        "bookList": "class.book-img-text@li",
+        "bookUrl": "h4@a@href",
+        "coverUrl": "img.0@src",
+        "intro": "class.intro@text",
+        "kind": "class.author@tag.a.1@text&&class.author@span@text",
+        "lastChapter": "class.update@a@text##最新更新",
+        "name": "h4@a@text",
+        "wordCount": "class.update@span@text"
+    },
+    "ruleToc": {
+        "chapterList": "class.volume@li@a",
+        "chapterName": "text",
+        "chapterUrl": "href##$##,{'webView':true}",
+        "updateTime": "a@title"
+    },
+    "searchUrl": "\/search?kw={{key}}&pageNum={{page}}",
+    "weight": 0
 }]
