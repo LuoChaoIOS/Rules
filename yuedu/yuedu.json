@@ -106,7 +106,7 @@
         "author": ".zuozhe@text",
         "kind": "textNodes&&cite@text##\\[|\\]|小说",
         "coverUrl": "a.0@href##(\\d+)##https:\/\/aabook.xyz\/img-$1.jpg###",
-        "bookUrl": "a.0@href"
+        "bookUrl": "a.0@href##https:\/\/aabook.xyz\/$1###"
     },
     "ruleExplore": {
         "bookList": ".list_main tbody tr",
@@ -126,7 +126,7 @@
         "lastChapter": "@get:{l}",
         "intro": "<br>@get:{i}##\\s\\s##<br>",
         "coverUrl": "@get:{c}",
-        "tocUrl": "https://aabook.xyz/@get:{u}"
+        "tocUrl": "@get:{u}"
     },
     "ruleToc": {
         "chapterList": "ul.section_list li a",
