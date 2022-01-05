@@ -83,42 +83,41 @@
     "weight": 0
 },
 {
-    "bookSourceComment": "musa自制。",
+    "bookSourceComment": "20210516可用，无重复内容，如当前地址无法打开，可到https:\/\/github.com\/lamboxx\/aabook进行更换",
     "bookSourceGroup": "自制",
-    "bookSourceName": "自制疯情书库vpn",
+    "bookSourceName": "疯情书库",
     "bookSourceType": 0,
-    "bookSourceUrl": "http:\/\/m.kavbook.com",
-    "customOrder": -134330,
+    "bookSourceUrl": "https:\/\/www.aastory.space",
+    "bookUrlPattern": "",
+    "customOrder": 0,
     "enabled": true,
     "enabledExplore": true,
-    "exploreUrl": "男生::\/nansheng\/&&女生::\/nvsheng\/&&丝袜::\/e\/search\/?keyboard=丝袜&classid=0&searchget=1&show=title,writer",
-    "lastUpdateTime": 1624248657387,
+    "exploreUrl": "玄幻::\/category.php?t=xuanhuan\n职场::\/category.php?t=zhichang\n古典::\/category.php?t=gudian\n惊悚::\/category.php?t=jingsong\n网游::\/category.php?t=wangyou\n乡土::\/category.php?t=xiangtu\n历史::\/category.php?t=lishi\n耽美::\/category.php?t=danmei\n女尊::\/category.php?t=nvzun\n穿越::\/category.php?t=chuanyue\n同人::\/category.php?t=tongren\n校园::\/category.php?t=xiaoyuan\n言情::\/category.php?t=yanqing\n官场::\/category.php?t=guanchang\n异能::\/category.php?t=yineng\n都市::\/category.php?t=dushi\n武侠::\/category.php?t=wuxia\n仙侠::\/category.php?t=xianxia\n单篇::\/category.php?t=danpian\n点击榜::\/ranking.php?t=click\n新书榜::\/ranking.php?t=newbook\n总字数榜::\/ranking.php?t=totalword",
+    "header": "{\n  \"User-Agent\": \"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/90.0.4430.212 Safari\/537.36 Edg\/90.0.818.62\"\n}",
+    "lastUpdateTime": 1620969373871,
+    "loginUrl": "",
     "ruleBookInfo": {
-        "author": "tag.span.1@text##作者:",
-        "coverUrl": "tag.img@src",
-        "init": "id.soft-info",
-        "intro": "class.cont@text",
-        "name": "tag.h1@text",
-        "tocUrl": "class.c2 on@href"
+        "coverUrl": "class.book_info_top_l@tag.img.0@src",
+        "intro": "class.jianjieneirong@text",
+        "lastChapter": "class.new_zhangjie1@tag.a@text",
+        "tocUrl": "class.xiaoshuomulu@tag.a.0@href"
     },
     "ruleContent": {
-        "content": "tag.p@text",
-        "nextContentUrl": ""
+        "content": "<js>java.ajax(baseUrl.replace('read-', '_getcontent.php?id=').replace('.html','&v=' + result.match(\/&v=(.*?)\"\/)[1])).replaceAll('<style.*style>','').replaceAll('<([^<]*?)class(.*?)<\/(.*?)>','')<\/js>"
     },
     "ruleExplore": {},
     "ruleSearch": {
-        "author": "tag.span@text##作者:",
-        "bookList": "id.datalist@tag.li",
-        "bookUrl": "class.btn@href",
-        "intro": "tag.p@text",
-        "name": "tag.b@text"
+        "author": "tag.a.1@text||class.author@text",
+        "bookList": "class.sousuojieguo@tag.ul.0@tag.li||class.yuepiaobang@tag.tbody@tag.tr",
+        "bookUrl": "tag.a.0@href||class.shuming@tag.a@href",
+        "kind": "textNodes||class.fenlei@text",
+        "name": "tag.a.0@text||class.shuming@tag.a@text"
     },
     "ruleToc": {
-        "chapterList": "tag.li!0",
+        "chapterList": "class.section_list@tag.li",
         "chapterName": "tag.a@text",
-        "chapterUrl": "text.小说全文免费阅读@href",
-        "nextTocUrl": "text.下一页@href"
+        "chapterUrl": "tag.a@href"
     },
-    "searchUrl": "http:\/\/m.kavbook.com\/e\/search\/?keyboard={{key}}&classid=0&searchget=1&show=title,writer",
+    "searchUrl": "http:\/\/www.aastory.space\/search.php?searchword={{key}}",
     "weight": 0
 }]
