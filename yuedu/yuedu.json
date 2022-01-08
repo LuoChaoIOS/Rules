@@ -548,58 +548,6 @@
 },
 {
     "ruleExplore":{
-        "author":"tag.span.1@text||tag.td.2@text",
-        "bookList":"class.content@tag.dl",
-        "lastChapter":".c_subject@tag.a.2@text||tag.td.1@text",
-        "wordCount":"tag.span.3@text||tag.td.3@text",
-        "intro":".c_description@text",
-        "kind":"tag.span.7@text&&tag.span.5@text&&tag.td.5@text&&tag.td.4@text",
-        "coverUrl":"img@src",
-        "bookUrl":"tag.a.1@href",
-        "name":"tag.a.1@text"
-    },
-    "bookSourceType":0,
-    "ruleSearch":{
-        "author":"tag.span.3@text",
-        "bookList":"class.content@tag.dl",
-        "lastChapter":"tag.a.-1@text",
-        "wordCount":"tag.span.7@text",
-        "intro":".c_description@text##.*简介.",
-        "kind":"tag.span.5@text&&tag.span.9@text&&tag.span.-1@text",
-        "coverUrl":"img@src",
-        "bookUrl":"tag.a.1@href",
-        "name":"tag.a.1@text"
-    },
-    "ruleBookInfo":{
-        "coverUrl":"[property=\"og:image\"]@content",
-        "author":"[property=\"og:novel:author\"]@content",
-        "kind":"[property=\"og:novel:category\"]@content&&[property=\"og:novel:status\"]@content&&[property=\"og:novel:update_time\"]@content##\\s.*",
-        "name":"[property=\"og:novel:book_name\"]@content",
-        "intro":"[property=\"og:description\"]@content##.内容简介.",
-        "lastChapter":"[property=\"og:novel:latest_chapter_name\"]@content"
-    },
-    "ruleContent":{
-        "content":".acontent@html"
-    },
-    "searchUrl":"\/search\/?searchkey={{key}}",
-    "weight":0,
-    "enabledExplore":true,
-    "bookSourceComment":"",
-    "ruleToc":{
-        "chapterName":"text",
-        "chapterUrl":"tag.a@href",
-        "chapterList":".all@tag.ul@tag.li"
-    },
-    "enabled":true,
-    "bookSourceUrl":"http:\/\/www.liquge.com",
-    "lastUpdateTime":1622632892965,
-    "bookSourceName":"笔趣阁liquge ",
-    "bookSourceGroup":"自用",
-    "exploreUrl":"玄幻魔法::\/all\/1\/{{page}}.html\n武侠仙侠::\/all\/2\/{{page}}.html\n都市现代::\/all\/3\/{{page}}.html\n历史军事::\/all\/4\/{{page}}.html\n网游竞技::\/all\/5\/{{page}}.html\n科幻惊悚::\/all\/6\/{{page}}.html\n女生频道::\/all\/7\/{{page}}.html\n综合其他::\/all\/8\/{{page}}.html",
-    "customOrder":-3
-},
-{
-    "ruleExplore":{
         "bookList":""
     },
     "bookSourceType":0,
