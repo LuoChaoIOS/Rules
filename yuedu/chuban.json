@@ -1,0 +1,589 @@
+[
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖期刊杂志",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://qk.lifves.com",
+        "customOrder": 109,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "读者校园::http://qk.lifves.com/magazine.php?s=%E8%AF%BB%E8%80%85&key=9e236705-8f62-4007-9dc6-0ce02ae32a4c<,&page={{page}}>\n    读者    ::http://qk.lifves.com/magazine.php?s=%E8%AF%BB%E8%80%85&key=ea265b17-0d79-4240-b3db-0b4cf94de08b<,&page={{page}}>\n读者欣赏::http://qk.lifves.com/magazine.php?s=%E8%AF%BB%E8%80%85&key=b4f38850-dda4-4559-a1a7-59479a2e05e6<,&page={{page}}>\n意林原创::http://qk.lifves.com/magazine.php?s=%E6%84%8F%E6%9E%97&key=4fd8f670-f98d-459d-8263-044f6d5e4d4a<,&page={{page}}>\n    意林    ::http://qk.lifves.com/magazine.php?s=%E6%84%8F%E6%9E%97&key=7e788766-77a0-4093-b1f1-e3f55dd55137<,&page={{page}}>\n青年周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=71db0147-01dc-4e40-bdff-73a27c661bbe<,&page={{page}}>\n上海故事::http://qk.lifves.com/magazine.php?s=%E6%95%85%E4%BA%8B&key=2f49b65d-8585-4b27-84d8-c59949902ac8<,&page={{page}}>\n  故事会  ::http://qk.lifves.com/magazine.php?s=%E6%95%85%E4%BA%8B&key=08dc3c17-262e-4f58-b7d9-932ab966e582<,&page={{page}}>\n古今传奇::http://qk.lifves.com/magazine.php?s=%E6%95%85%E4%BA%8B&key=52db49e5-51e0-4658-ab8c-7f7e1f19b662<,&page={{page}}>\n青年周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=71db0147-01dc-4e40-bdff-73a27c661bbe<,&page={{page}}>\n  看天下  ::http://qk.lifves.com/magazine.php?s=%E7%9C%8B%E5%A4%A9%E4%B8%8B&key=65545c2e-bb1c-4f32-8cdf-5995ef0bd73f<,&page={{page}}>\n文苑感悟::http://qk.lifves.com/magazine.php?s=%E6%96%87%E8%8B%91&key=352bb7fa-2bea-47e8-bbe0-ef14bad0fd7b<,&page={{page}}>\n财经周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=1f2c6d8d-c7fa-4e42-8150-2ee673e29202<,&page={{page}}>\n  南风窗  ::http://qk.lifves.com/magazine.php?s=%E5%8D%97%E9%A3%8E%E7%AA%97&key=2ab3ecb3-1f0e-4a06-af1f-f08670f42b80<,&page={{page}}>\n文苑美文::http://qk.lifves.com/magazine.php?s=%E6%96%87%E8%8B%91&key=8eb793ed-1e66-4579-b9df-bd0341d56f03<,&page={{page}}>\n东方周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=8b13db7e-11c6-4cdc-bad9-531af3d8e730<,&page={{page}}>\n南都周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=ab027cf3-8a09-4d9f-b4bf-c4a99de3aba4<,&page={{page}}>\n南方周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=e29202e8-f6a9-4001-93cc-a6d383b505c7<,&page={{page}}>\n汽车周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=cb9c9f96-f991-45d6-9ef9-c9d81517df91<,&page={{page}}>\n新民周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=07fdb325-2d3a-42eb-9f69-ee041ba1b48b<,&page={{page}}>\n经济周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=4a07226a-70b4-41a8-b61a-3a45a4e09fec<,&page={{page}}>\n中国周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=77ef8d4a-33be-4ac5-8b9d-cfc9fea0ec9f<,&page={{page}}>\n证券红刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=a442ab9c-8249-4340-9e39-b349f3d9f4ab<,&page={{page}}>\n证券周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=c0f4014b-b677-4dcc-b48b-b1fe4d602a45<,&page={{page}}>\n新闻周刊::http://qk.lifves.com/magazine.php?s=%E5%91%A8%E5%88%8A&key=9015a0e8-eca9-4560-9c5e-317420aee8f5<,&page={{page}}>\n信息时报::http://qk.lifves.com/magazine.php?s=%E6%8A%A5%E7%BA%B8&key=320700000922<,&page={{page}}>\n经济日报::http://qk.lifves.com/magazine.php?s=%E6%8A%A5%E7%BA%B8&key=320700000125<,&page={{page}}>\n新民晚报::http://qk.lifves.com/magazine.php?s=%E6%8A%A5%E7%BA%B8&key=320700001254<,&page={{page}}>\n扬子晚报::http://qk.lifves.com/magazine.php?s=%E6%8A%A5%E7%BA%B8&key=320700001264<,&page={{page}}>\n羊城晚报::http://qk.lifves.com/magazine.php?s=%E6%8A%A5%E7%BA%B8&key=320700001265<,&page={{page}}>\n民间故事上::http://qk.lifves.com/magazine.php?s=%E6%95%85%E4%BA%8B&key=4b794331-6c37-4d62-8ab4-c9bbd553afb1<,&page={{page}}>\n    故事林    ::http://qk.lifves.com/magazine.php?s=%E6%95%85%E4%BA%8B&key=95ad621a-64c6-4535-a0b1-7168523387d7<,&page={{page}}>\n民间故事下::http://qk.lifves.com/magazine.php?s=%E6%95%85%E4%BA%8B&key=fff4cc15-0856-43e8-b431-3163b53fb57d<,&page={{page}}>\n知音海外上::http://qk.lifves.com/magazine.php?s=%E7%9F%A5%E9%9F%B3&key=175f46d3-3f5f-4f81-be66-c80ca5b809da<,&page={{page}}>\nvista看世界::http://qk.lifves.com/magazine.php?s=%E7%9C%8B%E5%A4%A9%E4%B8%8B&key=65545c2e-bb1c-4f32-8cdf-5995ef0bd73f<,&page={{page}}>\n知音海外下::http://qk.lifves.com/magazine.php?s=%E7%9F%A5%E9%9F%B3&key=ce4008ad-37e1-4e33-b392-4956e54c782d<,&page={{page}}>\n知音上半月::http://qk.lifves.com/magazine.php?s=%E7%9F%A5%E9%9F%B3&key=048e8141-5aa7-4423-83c0-5e93439bd8e6<,&page={{page}}>\n知音下半月::http://qk.lifves.com/magazine.php?s=%E7%9F%A5%E9%9F%B3&key=d2635bc7-e2ad-412d-b01b-23224c1a0552<,&page={{page}}>\n知音月末版::http://qk.lifves.com/magazine.php?s=%E7%9F%A5%E9%9F%B3&key=5d99c3e8-32a3-4709-a263-bf2371314b65<,&page={{page}}>",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 8.0.0; MI 5 Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.89 Mobile Safari/537.36\"\n}",
+        "lastUpdateTime": 1604569679198,
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "intro": "class.layui-field-box.0@text"
+        },
+        "ruleContent": {
+            "content": "class.layui-field-box@html"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "bookList": "class.layui-container",
+            "bookUrl": "tag.a.0@href",
+            "coverUrl": "img@src",
+            "kind": "tag.a@text",
+            "name": "tag.a@text"
+        },
+        "ruleToc": {
+            "chapterList": "class.layui-card@tag.a",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "#",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖必读网",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.beduu.com",
+        "bookUrlPattern": "",
+        "customOrder": 111,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "文学小说::/wenxue/list-{{page}}.html\n励志心理::/lizhi/list-{{page}}.html\n哲学宗教::/zhexue/list-{{page}}.html\n历史地理::/lishi/list-{{page}}.html\n人物传记::/renwu/list-{{page}}.html",
+        "lastUpdateTime": 1604569552900,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "author": "class.d_t fl@class.fl.0@text##.*作者.|栏目.*",
+            "coverUrl": "class.d_t fl@img@src",
+            "intro": "class.d_a@textNodes",
+            "kind": "class.d_t fl@class.fl.0@text##.*栏目.|类别.*",
+            "lastChapter": "class.d_read@tag.a.-1@text",
+            "name": "class.d_t fl@tag.h1@text",
+            "wordCount": "class.d_t fl@class.fl.0@text##.*大小.|评价.*"
+        },
+        "ruleContent": {
+            "content": "id.view_content_txt@textNodes##必读网.*",
+            "imageStyle": "0",
+            "nextContentUrl": "text.下一页@href"
+        },
+        "ruleExplore": {
+            "author": "tag.span@text##作者.|大小.*",
+            "bookList": "id.list@tag.dl",
+            "bookUrl": "tag.a.1@href",
+            "coverUrl": "tag.img@src",
+            "intro": "tag.dd@text",
+            "kind": "tag.span@text##.*语言.|更新.*",
+            "name": "tag.a.1@text",
+            "wordCount": "tag.span@text##.*时间."
+        },
+        "ruleSearch": {
+            "author": "class.adds@text##.*作者.|发布.*",
+            "bookList": "class.wrap@tag.li",
+            "bookUrl": "tag.a.1@href",
+            "coverUrl": "tag.img@src",
+            "intro": "tag.p@text",
+            "kind": "class.adds@text##栏目.|作者.*",
+            "lastChapter": "",
+            "name": "tag.a.1@text",
+            "wordCount": "class.adds@text##.*时间."
+        },
+        "ruleToc": {
+            "chapterList": "class.d_read@tag.a",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "/index.php?m=search&c=index&a=init&typeid=2&siteid=1&q={{key}}&page={{page}},{\n  \"charset\": \"gbk\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖稻草人",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://www.daocaorenshuwu.com",
+        "bookUrlPattern": "",
+        "customOrder": 112,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "连载::/lianzai/\n完结::/wanjie/\n玄幻::/xuanhuan<,{{page}}>.html\n奇幻::/qihuan<,{{page}}>.html\n武侠::/wuxia<,{{page}}>.html\n仙侠::/xianxia<,{{page}}>.html\n都市::/dushi<,{{page}}>.html\n轻改::/qing<,{{page}}>.html\n历史::/lishi<,{{page6>.html\n军事::/junshi<,{{page}}>.html\n游戏::/youxi<,{{page}}>.html\n科幻::/kehuan<,{{page}}>.html\n灵异::/lingyi<,{{page}}>.html\n言情::/yanqing<,{{page}}>.html\n耽美::/danmei<,{{page}}>.html\n当代::/dangdai<,{{page}}>.html\n侦探::/zhentan<,{{page}}>.html\n儿童::/ertong<,{{page}}>.html\n名著::/mingzhu<,{{page}}>.html\n励志::/lizhi<,{{page}}>.html\n悬疑::/xuanyi<,{{page}}>.html\n经管::/jingguan<,{{page}}>.html\n同人::/tongren<,{{page}}>.html\n传记::/zhuanji<,{{page}}>.html\n散文::/sanwen<,{{page}}>.html\n外国::/waiguo<,{{page}}>.htmli\n畅销::/chuban<,{{page}}>.html\n杂志::/zazhi<,{{page}}>.html\n漫画::/manhua<,{{page}}>.html\n纪实::/jishi<,{{page}}>.html\n幽默::/youmo<,{{page}}>.html\n健康::/health<,{{page}}>.html\n诗集::/poetry<,{{page}}>.html\n学习::/xuexi<,{{page}}>.html\n心理::/xinli<,{{page}}>.html\n宗教::/foxue<,{{page}}>.html\n哲学::/zhexue<,{{page}}>.html\n旅游::/travel<,{{page}}>.html\n科普::/kepu<,{{page}}>.html\n育儿::/yuer<,{{page}}>.html\n女性::/woman<,{{page}}>.html\n文化::/culture<,{{page}}>.html\n官场::/guanchang<,{{page}}>.html\n青春::/youth<,{{page}}>.html\n网络::/net<,{{page}}>.html\n国学::/guoxue<,{{page}}>.html\n逻辑::/logic<,{{page}}>.html\n创业::/cuangye<,{{page}}>.html\n次元::/erciyuan<,{{page}}>.html\n英文::/english<,{{page}}>.html\n其他::/other<,{{page}}>.html",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 8.1.0; JKM-AL00b Build/HUAWEIJKM-AL00b; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044807 Mobile Safari/537.36\"\n}",
+        "lastUpdateTime": 1604569522489,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "author": "$4",
+            "coverUrl": "https:$2",
+            "init": ":(?=<meta property)(?:([^\"]*)\"){12}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){8}(?:([^\"]*)\"){12}",
+            "intro": "$1",
+            "kind": "$3,$7",
+            "lastChapter": "$8",
+            "name": "$5"
+        },
+        "ruleContent": {
+            "content": "class.cont-text@tag.div@html##cop.*|稻草人书屋|内容来自.*|www.*|dao.*|免费下载.*|本文来自.*|[欢迎到看书]|\\..*\\}",
+            "imageStyle": "full",
+            "nextContentUrl": "class.col-md-6 text-center@tag.a.2@href"
+        },
+        "ruleExplore": {
+            "author": "class.dark@text||tag.td.-1@text||tag.td.1@tag.a.0@text",
+            "bookList": "class.panel-body!1@class.mb10&&class.container@class.main@class.table@tag.tr!0",
+            "bookUrl": "tag.h4@tag.a.0@href||tag.td.0@tag.a.0@href||tag.td.1@tag.a.0@href",
+            "coverUrl": "class.book-img@src||class.book-img-small@data-original",
+            "intro": "class.media-info@text",
+            "name": "class.media@tag.h4@tag.a.0@text||tag.a.0@text##《|》|（.+?）"
+        },
+        "ruleSearch": {
+            "author": "tag.td.1@text",
+            "bookList": "table@tag.tr!0",
+            "bookUrl": "tag.a@href",
+            "lastChapter": "tag.a.0@href\n<js>java.ajax('https://www.daocaorenshuwu.com'+result)</js>\n//*[@property=\"og:novel:latest_chapter_name\"]/@content",
+            "name": "tag.a.0@title"
+        },
+        "ruleToc": {
+            "chapterList": "+id.all-chapter@class.row@tag.a",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "https://www.daocaorenshuwu.com/plus/search.php?q={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖九九藏书",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.99csw.com",
+        "bookUrlPattern": "",
+        "customOrder": 115,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "排行榜::/top/index.php\n传记回忆::/book/index.php?type=传记回忆&page={{page}}\n英文读本::/book/index.php?type=英文读本&page={{page}}\n杂文随笔::/book/index.php?type=杂文随笔&page={{page}}\n现代小说::/book/index.php?type=现代小说&page={{page}}\n言情小说::/book/index.php?type=言情小说&page={{page}}\n历史小说::/book/index.php?type=历史小说&page={{page}}\n侦探推理::/book/index.php?type=侦探推理&page={{page}}\n惊悚悬疑::/book/index.php?type=惊悚悬疑&page={{page}}\n网络玄幻::/book/index.php?type=网络玄幻&page={{page}}\n寓言童话::/book/index.php?type=寓言童话&page={{page}}\n青春都市::/book/index.php?type=青春都市&page={{page}}\n社会心理::/book/index.php?type=社会心理&page={{page}}\n外国小说::/book/index.php?type=外国小说&page={{page}}\n科幻小说::/book/index.php?type=科幻小说&page={{page}}\n当代小说::/book/index.php?type=当代小说&page={{page}}\n武侠小说::/book/index.php?type=武侠小说&page={{page}}\n纪实报告::/book/index.php?type=纪实报告&page={{page}}\n世界历史::/book/index.php?type=世界历史&page={{page}}\n中国历史::/book/index.php?type=中国历史&page={{page}}\n科普学习::/book/index.php?type=科普学习&page={{page}}\n诗歌戏曲::/book/index.php?type=诗歌戏曲&page={{page}}\n宗教哲学::/book/index.php?type=宗教哲学&page={{page}}\n文学理论::/book/index.php?type=文学理论&page={{page}}\n日语读物::/book/index.php?type=日语读物&page={{page}}\n作品集::/book/index.php?type=作品集&page={{page}}\n国学/古籍::/book/index.php?type=国学%2F古籍&page={{page}}\n战争军事::/book/index.php?type=战争军事&page={{page}}\n政治经济::/book/index.php?type=政治经济&page={{page}}\n古典文学::/book/index.php?type=古典文学&page={{page}}\n官场小说::/book/index.php?type=官场小说&page={{page}}\n轻小说::/book/index.php?type=轻小说&page={{page}}",
+        "header": "",
+        "lastUpdateTime": 1604569657966,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "author": "id.book_info@tag.h4.0@tag.a@text",
+            "coverUrl": "id.book_info@tag.img@src",
+            "init": "",
+            "intro": "class.intro@tag.p@text",
+            "kind": "",
+            "lastChapter": "",
+            "name": "id.book_info@tag.h2@text",
+            "tocUrl": "",
+            "wordCount": ""
+        },
+        "ruleContent": {
+            "content": "@css:#content > div@text##\\s*(([ｈh].+)?([wｗ]+.)?[９9]+[ｌl][ｉi][ｂb].[ｎn][ｅe][ｔt]|九.?九.{1,5}书.?网?)\\s*",
+            "nextContentUrl": "",
+            "sourceRegex": "",
+            "webJs": ""
+        },
+        "ruleExplore": {
+            "author": "",
+            "bookList": "",
+            "bookUrl": "",
+            "coverUrl": "",
+            "intro": "",
+            "kind": "",
+            "lastChapter": "",
+            "name": "",
+            "wordCount": ""
+        },
+        "ruleSearch": {
+            "author": "tag.h4.0@tag.a@text",
+            "bookList": "class.list_box@tag.li",
+            "bookUrl": "tag.h2@tag.a@href",
+            "coverUrl": "tag.a@tag.img@src",
+            "intro": "class.intro@text##^\\s+",
+            "kind": "tag.h4.1@tag.a@text",
+            "lastChapter": "@css:h4:contains(标签:) a@text##^|\\s+## \\#",
+            "name": "tag.h2@tag.a@text",
+            "wordCount": ""
+        },
+        "ruleToc": {
+            "chapterList": "id.dir@tag.dd",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href",
+            "isVip": "",
+            "nextTocUrl": "",
+            "updateTime": ""
+        },
+        "searchUrl": "http://www.99csw.com/book/search.php?type=all&keyword={{key}}&page={{page}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖落霞小说",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.luoxia.com",
+        "bookUrlPattern": "",
+        "customOrder": 119,
+        "enabled": true,
+        "enabledExplore": false,
+        "lastUpdateTime": 1604569546695,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "intro": ".describe-html@html@js:'<br>'+result.replace(/.+章节列表.+/, '').trim()"
+        },
+        "ruleContent": {
+            "content": "id.nr1@p@text##搜索关注.*更方便！|\\-落-霞-小-说.*"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "author",
+            "bookList": ".cat-search-item a@js:var O=[\"h.i().j(0,3).k(l(a){d b=4(a.e('m')).5(/^\\\\//,n.o(/(.+\\\\/\\\\/.+?\\\\/)/)[1]);d J=q.r.u.v(w.x(b));y{z:J.2('.6-7 A').8(),B:4(J.2('.6-7 p:9(作者：)').8()).5(/.+：/,'').c(),C:4(J.2('.6-f f').e('D'))||'E://F.G/H',I:[4(J.2('.6-7 p:9(类型：)').8()).5(/.+：/,'').c(),4(J.2('.6-7 p:9(状态：)').8()).5(/.+：|已|中/g,'').c()],K:4(J.2('.6-7 p:9(最新章节：)').2('a').8()).c()+'（'+4(J.2('.6-7 p:9(最近更新：)').8()).5(/日|.+：/g,'').5(/年|月/g,'-').c()+'）',L:4(J.2('.7-M').8()).5(/.+章节列表.+/,'').5(/[\\\\s\\\\t]+/g,''),N:b}});\",\"|\",\"split\",\"||select||String|replace|book|describe|text|contains|||trim|var|attr|img||result|toArray|slice|map|function|href|baseUrl|match||org|jsoup|||Jsoup|parse|java|ajax|return|name|h1|author|cover|src|http|uee|me|bNkEy|tags||last|intro|html|url\",\"\",\"fromCharCode\",\"replace\",\"\\\\w+\",\"\\\\b\",\"g\"];eval(function(e,r,t,f,n,a){if(n=function(e){return(e<50?O[4]:n(parseInt(e/50)))+(35<(e%=50)?String[O[5]](e+29):e.toString(36))},!O[4][O[6]](/^/,String)){for(;t--;)a[n(t)]=f[t]||n(t);f=[function(e){return a[e]}],n=function(){return O[7]},t=1}for(;t--;)f[t]&&(e=e[O[6]](new RegExp(O[8]+n(t)+O[8],O[9]),f[t]));return e}(O[0],0,50,O[3][O[2]](O[1]),0,{}));",
+            "bookUrl": "url",
+            "coverUrl": "cover",
+            "intro": "intro@js:result.trim()",
+            "kind": "",
+            "lastChapter": "last",
+            "name": "name"
+        },
+        "ruleToc": {
+            "chapterList": ".book-list a",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "/?s={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖读书369",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.dushu369.com",
+        "bookUrlPattern": "",
+        "customOrder": 123,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "中国::/zhongguomingzhu/\n外国::/waiguomingzhu/\n古典::/gudianmingzhu/\n儿童::/tonghua/\n故事::/gushi/\n励志::/jiaoyu/\n散文::/shici/\n名人::/mingrenzhuanji/\n武侠::/wuxiaxiaoshuo/\n其他::/qtyd/\n给孩子::/Special/jdsm/Index.html",
+        "lastUpdateTime": 1604569622318,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "intro": "class.Readme@text"
+        },
+        "ruleContent": {
+            "content": "tag.p@textNodes||tag.p@text||class.content@textNodes"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "tag.a.0@text##.*\\《.*\\》",
+            "bookList": "class.a3!0||class.a0",
+            "bookUrl": "class.a3.0@href||tag.a@href",
+            "name": "tag.a.0@text##\\《|\\》.*|\\（.*\\）"
+        },
+        "ruleToc": {
+            "chapterList": "class.a0@tag.a",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href"
+        },
+        "searchUrl": "http://www.dushu369.com/book/search.asp?Keyword={{key}}&select=Article&Submit=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD&Field=Title,{\n  \"charset\": \"gbk\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖古典文学",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.cngdwx.com",
+        "bookUrlPattern": "",
+        "customOrder": 124,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "全部典籍::/shuku_1518_{{page}}.html\n先秦两汉::/xianqinlianghan/shuku_155_{{page}}.html\n魏晋南北朝::/weijinnanbeichao/shuku_91_{{page}}.html\n唐宋::/tangsong/shuku_317_{{page}}.html\n元明清::/yuanmingqing/shuku_598_{{page}}.html\n近现代::/jinxiandai/shuku_198_{{page}}.html\n国学启蒙::/guoxueqimeng/shuku.html\n译文赏析::/yiwenshangxi/shuku_99_{{page}}.html\n杂谈::/zatan/shuku.html",
+        "lastUpdateTime": 1604569627157,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "author": "class.info@tag.li.0@text",
+            "intro": "class.words@tag.p@text",
+            "name": "class.title@tag.h1@text"
+        },
+        "ruleContent": {
+            "content": "class.box_box@tag.p@html"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "class.author@tag.a.0@text||tag.div.1@tag.p.0@tag.a.0@text",
+            "bookList": "class.ul_m_list@tag.li||class.ul_b_list@tag.li",
+            "bookUrl": "class.title1@tag.a.0@href||tag.h2@tag.a.0@href",
+            "coverUrl": "tag.div.0@tag.a.0@tag.img@src@js:result||'http://1t.click/GPx'",
+            "kind": "class.c@tag.a.0@text||tag.div.1@tag.p.0@tag.a.1@text",
+            "lastChapter": "class.title1@tag.a.1@text",
+            "name": "class.title1@tag.a.0@text||tag.h2@tag.a.0@text"
+        },
+        "ruleToc": {
+            "chapterList": "class.list_box@tag.li@tag.a",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "/plus/search.php?kwtype=0&searchtype=&q={{key}},{\n  \"charset\": \"utf-8\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖国学大师",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.guoxuedashi.com",
+        "customOrder": 125,
+        "enabled": true,
+        "enabledExplore": false,
+        "lastUpdateTime": 1604569636190,
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "intro": "text"
+        },
+        "ruleContent": {
+            "content": "id.infozj_txt@textNodes"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "tag.a@text##\\��.*��",
+            "bookList": "class.info_cate clearfix@tag.dd",
+            "bookUrl": "tag.a@href",
+            "name": "tag.a@text##\\��|\\��.*"
+        },
+        "ruleToc": {
+            "chapterList": "tag.dl@tag.dd",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href"
+        },
+        "searchUrl": "http://www.guoxuedashi.com/so.php?sokeytm={{key}}&ka=100&submit=2",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖汉典古籍",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://gj.zdic.net",
+        "customOrder": 126,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "【集部】::/list.php?caid-10/page-{{page}}.html\n【总集】::/list.php?caid-44/page-{{page}}.html\n【别集】::/list.php?caid-45/page-{{page}}.html\n【楚辞】::/list.php?caid-46/page-{{page}}.html\n【词】::/list.php?caid-47/page-{{page}}.html\n【诗文评】::/list.php?caid-48/page-{{page}}.html\n【曲】::/list.php?caid-49/page-{{page}}.html\n【小说】::/list.php?caid-50/page-{{page}}.html\n【子部】::/list.php?caid-9/page-{{page}}.html\n【儒家】::/list.php?caid-29/page-{{page}}.html\n【释家】::/list.php?caid-30/page-{{page}}.html\n【道家】::/list.php?caid-31/page-{{page}}.html\n【法家】::/list.php?caid-32/page-{{page}}.html\n【兵家】::/list.php?caid-33/page-{{page}}.html\n【农家】::/list.php?caid-34/page-{{page}}.html\n【杂家】::/list.php?caid-35/page-{{page}}.html\n【术数】::/list.php?caid-36/page-{{page}}.html\n【医家】::/list.php?caid-37/page-{{page}}.html\n【科技】::/list.php?caid-38/page-{{page}}.html\n【艺术】::/list.php?caid-39/page-{{page}}.html\n【书画】::/list.php?caid-40/page-{{page}}.html\n【谱录】::/list.php?caid-41/page-{{page}}.html\n【类书】::/list.php?caid-42/page-{{page}}.html\n【蒙学】::/list.php?caid-43/page-{{page}}.html\n【史部】::/list.php?caid-8/page-{{page}}.html\n【正史】::/list.php?caid-14/page-{{page}}.html\n【编年】::/list.php?caid-15/page-{{page}}.html\n【纪事本末】::/list.php?caid-16/page-{{page}}.html\n【别杂史等】::/list.php?caid-17/page-{{page}}.html\n【史评】::/list.php?caid-18/page-{{page}}.html\n【诏令奏议】::/list.php?caid-19/page-{{page}}.html\n【传记】::/list.php?caid-20/page-{{page}}.html\n【史钞】::/list.php?caid-21/page-{{page}}.html\n【载记】::/list.php?caid-22/page-{{page}}.html\n【时令】::/list.php?caid-23/page-{{page}}.html\n【地理】::/list.php?caid-24/page-{{page}}.html\n【职官】::/list.php?caid-25/page-{{page}}.html\n【政书】::/list.php?caid-26/page-{{page}}.html\n【目录】::/list.php?caid-27/page-{{page}}.html\n【金石】::/list.php?caid-28/page-{{page}}.html\n【经部】::/list.php?caid-91/page-{{page}}.html\n【十三经】::/list.php?caid-2/page-{{page}}.html\n【十三经注疏】::/list.php?caid-3/page-{{page}}.html\n【经学史及小学类】::/list.php?caid-4/page-{{page}}.html",
+        "lastUpdateTime": 1604569640150,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "intro": "id.jj_2@text"
+        },
+        "ruleContent": {
+            "content": "id.jj_2@html||id.snr2@html##\\【目录\\】|上一篇：.*|下一篇：.*"
+        },
+        "ruleExplore": {
+            "bookList": "id.list_d_1@li@a",
+            "bookUrl": "href",
+            "name": "text"
+        },
+        "ruleSearch": {
+            "author": "class.state@text##作者：|搜索次数.*",
+            "bookList": "class.ul_b_list@li",
+            "bookUrl": "h2@a@href",
+            "coverUrl": "tag.a.0@img@src",
+            "intro": "class.words@tag.p.1@text",
+            "name": "h2@a@text"
+        },
+        "ruleToc": {
+            "chapterList": "class.mls@li@a||tag.html",
+            "chapterName": "text##【.*",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "http://gj.zdic.net/so/?searchword={{key}}&searchsubmit=1&x={{key}}&y={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖汉扬居",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.bjhanyang.com",
+        "bookUrlPattern": "",
+        "customOrder": 127,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "书库::/shuku_1433_{{page}}.html",
+        "lastUpdateTime": 1604569649947,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "coverUrl": "class.pic@tag.img.0@src",
+            "intro": "class.words@tag.p@text",
+            "lastChapter": "class.words@tag.a.0@text"
+        },
+        "ruleContent": {
+            "content": "@css:.box_box > div@text"
+        },
+        "ruleExplore": {
+            "author": "class.author@tag.a.0@text",
+            "bookList": "class.ul_m_list@tag.li",
+            "bookUrl": "class.title@class.t@tag.a.0@href",
+            "kind": "class.c@tag.a.0@text&&class.abover@text&&class.words@text",
+            "lastChapter": "class.n@tag.a.1@text",
+            "name": "class.title@class.t@tag.a.0@text"
+        },
+        "ruleSearch": {
+            "author": "class.state@tag.a.0@text",
+            "bookList": "class.ul_b_list@tag.li",
+            "bookUrl": "tag.h2.0@tag.a.0@href",
+            "coverUrl": "class.pic@tag.img.0@src",
+            "intro": "tag.p.2@text",
+            "kind": "class.state@tag.a.1@text",
+            "name": "tag.h2.0@tag.a.0@text"
+        },
+        "ruleToc": {
+            "chapterList": "+@css:.list_box li > a",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "http://www.bjhanyang.com/plus/search.php?kwtype=0&searchtype=&q={{key}},{\n  \"charset\": \"gb2312\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖明清小说",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://www.mingqingxiaoshuo.com",
+        "customOrder": 129,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "历史演义::/lishiyanyi/<index,index_{{page}}>.html\n英雄传奇::/yingxiongchuanqi/<index,index_{{page}}>.html\n鬼怪神魔::/guiguaishenmo/<index,index_{{page}}>.html\n世态人情::/shitairenqing/<index,index_{{page}}>.html\n谴责公案::/qianzegongan/<index,index_{{page}}>.html\n学术杂书::/xueshuzashu/<index,index_{{page}}>.html\n杂剧戏曲::/zajuxiqu/<index,index_{{page}}>.html\n笔记::/bijixiaoshuo/<index,index_{{page}}>.html\n文章诗词::/wenzhangshici/<index,index_{{page}}>.html\n书评研究::/shupingyanjiu/<index,index_{{page}}>.html",
+        "lastUpdateTime": 1607443703438,
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "coverUrl": "class.fmpic@tag.img@src",
+            "intro": "class.m-summary@text"
+        },
+        "ruleContent": {
+            "content": "id.content@html"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "tag.a.1@text",
+            "bookList": "tag.table@tag.tbody@tag.tr",
+            "bookUrl": "tag.a.0@href",
+            "name": "tag.a.0@text"
+        },
+        "ruleToc": {
+            "chapterList": "id.booklist@tag.li",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href"
+        },
+        "searchUrl": "https://www.mingqingxiaoshuo.com/e/search/index.php,{\n  \"method\": \"POST\",\n  \"body\": \"tbname=bookname&show=title%2Cwriter&tempid=1&keyboard={{key}}\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖天下书库 ",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.txshuku.net",
+        "bookUrlPattern": "",
+        "customOrder": 130,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "玄幻::http://book.txshuku.net/sort18/0/{{page}}.html\n武侠::http://book.txshuku.net/sort16/0/{{page}}.html\n言情::http://book.txshuku.net/sort15/0/{{page}}.html\n历 史::http://book.txshuku.net/sort22/0/{{page}}.html\n官场::http://book.txshuku.net/sort23/0/{{page}}.html\n科幻::http://book.txshuku.net/sort21/0/{{page}}.html\n灵 异::http://book.txshuku.net/sort20/0/{{page}}.html\n穿越::http://book.txshuku.net/sort19/0/{{page}}.html\n古典::http://book.txshuku.net/sort13/0/{{page}}.html\n三国系列::http://book.txshuku.net/sort1/0/{{page}}.html\n水浒系列::http://book.txshuku.net/sort2/0/{{page}}.html\n西游系列::http://book.txshuku.net/sort3/0/{{page}}.html\n红楼系列::http://book.txshuku.net/sort4/0/{{page}}.html\n典籍文献::http://book.txshuku.net/sort8/0/{{page}}.html\n诗词歌赋::http://book.txshuku.net/sort6/0/{{page}}.html\n佛教书籍::http://book.txshuku.net/sort30/0/{{page}}.html\n道教书籍::http://book.txshuku.net/sort32/0/{{page}}.html\n中医书籍::http://book.txshuku.net/sort31/0/{{page}}.html\n十三经注疏::http://book.txshuku.net/sort9/0/{{page}}.html\n世界名著::http://book.txshuku.net/sort7/0/{{page}}.html\n古典文学::http://book.txshuku.net/sort5/0/{{page}}.html\n英语文学::http://book.txshuku.net/sort11/0/{{page}}.html\n现代文学::http://book.txshuku.net/sort12/0/{{page}}.html\n散文随笔::http://book.txshuku.net/sort25/0/{{page}}.html\n 幼学琼林::http://book.txshuku.net/sort10/0/{{page}}.html\n经管营销::http://book.txshuku.net/sort26/0/{{page}}.html\n人文社科::http://book.txshuku.net/sort14/0/{{page}}.html\n励志教育::http://book.txshuku.net/sort28/0/{{page}}.html\n生活百科::http://book.txshuku.net/sort29/0/{{page}}.html\n人物传记::http://book.txshuku.net/sort27/0/{{page}}.html",
+        "lastUpdateTime": 1604569720864,
+        "loginUrl": "",
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "intro": "class.mlist@text",
+            "tocUrl": "class.pic325 fr@tag.a.0@href"
+        },
+        "ruleContent": {
+            "content": "id.htmlContent@html",
+            "nextContentUrl": "class.chapter_Turnpage@tag.a.3@href"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "tag.span.0@text##作者：",
+            "bookList": "class.bd@tag.li",
+            "bookUrl": "class.name@tag.a@href",
+            "coverUrl": "tag.img@src",
+            "kind": "tag.span.1@text##分类：",
+            "lastChapter": "tag.span.3@text##更新：",
+            "name": "class.name@tag.a@text"
+        },
+        "ruleToc": {
+            "chapterList": "class.mulu_list@tag.li",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href",
+            "nextTocUrl": "class.right@tag.a@href"
+        },
+        "searchUrl": "http://book.txshuku.net/modules/article/search.php?searchtype=articlename&searchkey={{key}}&page={{page}},{\n  \"charset\": \"gbk\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖天涯书库",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://www.tianyabooks.com",
+        "customOrder": 131,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "华人文学::https://www.tianyabooks.com/cn/\n世界文学::https://www.tianyabooks.com/world/\n言情小说::https://www.tianyabooks.com/romance/\n网络小说::https://www.tianyabooks.com/net/\n恐怖灵异::https://www.tianyabooks.com/horror/\n侦探推理::https://www.tianyabooks.com/spy/\n科幻小说::https://www.tianyabooks.com/sf/\n玄幻小说::https://www.tianyabooks.com/fantasy/\n武侠小说::https://wx.tianyabooks.com/book/",
+        "lastUpdateTime": 1604569673720,
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "author": "class.book@tag.h2@text",
+            "intro": "class.book@tag.div@tag.p@text",
+            "name": "class.book@tag.h1@text"
+        },
+        "ruleContent": {
+            "content": "id.main@tag.p.1@html",
+            "nextContentUrl": "id.main@tag.table.1@tag.tbody@tag.tr@tag.td@tag.table.0@tag.tbody@tag.tr@tag.td.2@tag.strong@tag.a@href"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "bookList": "class.leftbox@tag.ul@tag.li||class.middlebox@tag.ul@tag.div@tag.li||class.listbox@tag.ul@tag.div@tag.li",
+            "bookUrl": "tag.a@href",
+            "name": "tag.a@tag.b@text||tag.a@text"
+        },
+        "ruleToc": {
+            "chapterList": "class.book@tag.dl@tag.dd",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href"
+        },
+        "searchUrl": "https://www.tianyabooks.com",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎖  出版",
+        "bookSourceName": "📖中学读物",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://fox2008.cn",
+        "customOrder": 132,
+        "enabled": true,
+        "enabledExplore": false,
+        "exploreUrl": "    散文    ::https://fox2008.cn/Article/List_256/\n    诗歌    ::https://fox2008.cn/Article/List_96/<index,index_2,index_3,index_{{page+1}}>.html\n    小说    ::https://fox2008.cn/Article/List_9/<index,index_2,index_3,index_{{page+1}}>.html\n中国文学::https://fox2008.cn/Article/List_10/<index,index_2,index_3,index_{{page+1}}>.html\n外国名著::https://fox2008.cn/Article/List_176/<index,index_2,index_3,index_{{page+1}}>.html\n名著导读::https://fox2008.cn/Article/List_374/\n经部作品::https://fox2008.cn/Article/List_28/\n史部作品::https://fox2008.cn/Article/List_29/\n四库全书::https://fox2008.cn/Article/List_26/\n古典文学::https://fox2008.cn/Article/List_15/<index,index_2,index_3,index_{{page+1}}>.html\n寓意童话::https://fox2008.cn/Article/List_13/<index,index_2,index_3,index_{{page+1}}>.html\n武侠小说::https://fox2008.cn/Article/List_335/<index,index_2,index_3,index_{{page+1}}>.html\n百家讲坛::https://fox2008.cn/Article/List_190/<index,index_2,index_3,index_{{page+1}}>.html\n中外名人::https://fox2008.cn/Article/List_259/\n故事会集::https://fox2008.cn/Article/List_72/<index,index_2,index_3,index_{{page+1}}>.html\n美文欣赏::https://fox2008.cn/Article/List_2/\n礼仪知识::https://fox2008.cn/Article/List_360/\n民俗风情::https://fox2008.cn/Article/List_12/\n谜语大全::https://fox2008.cn/Article/List_76/\n百科知识::https://fox2008.cn/Article/List_80/<index,index_2,index_3,index_{{page+1}}>.html\n教育成才::https://fox2008.cn/Article/List_396/<index,index_2,index_3,index_{{page+1}}>.html\n十大将军::https://fox2008.cn/Article/List_759/\n十大元帅::https://fox2008.cn/Article/List_1163/\n名人故事::https://fox2008.cn/Article/List_334/\n其他阅读::https://fox2008.cn/qtyd/<index,index_2,index_3,index_{{page+1}}>.html\n莫言合集::https://fox2008.cn/Article/List_1156/\n亦舒文集::https://fox2008.cn/Article/List_1468/\n张爱玲集::https://fox2008.cn/Article/List_1448/\n张小娴集::https://fox2008.cn/Article/List_1503/\n郑渊洁集::https://fox2008.cn/Article/List_914/\n余秋雨集::https://fox2008.cn/Article/List_941/\n沈从文集::https://fox2008.cn/Article/List_973/\n冯骥才集::https://fox2008.cn/Article/List_1137/\n张恨水文集::https://fox2008.cn/Article/List_262/\n贾平凹文集::https://fox2008.cn/Article/List_278/\n曹文轩文集::https://fox2008.cn/Article/List_230/\n郭敬明文集::https://fox2008.cn/Article/List_422/\n张贤亮文集::https://fox2008.cn/Article/List_895/\n茶人三部曲::https://fox2008.cn/Article/List_808/\n菜根谭全集::https://fox2008.cn/Article/List_589/\n白话文解析::https://fox2008.cn/Article/List_758/<index,index_2,index_3,index_{{page+1}}>.html\n唐宋八大家::https://fox2008.cn/Article/List_216/",
+        "lastUpdateTime": 1604569661811,
+        "respondTime": 180000,
+        "ruleBookInfo": {
+            "intro": "class.txt@tag.p@text",
+            "name": "tag.h3.0@text"
+        },
+        "ruleContent": {
+            "content": "id.chapterContent@tag.p@textNodes||id.chapterContent@tag.span@html"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "class.author-container@text",
+            "bookList": "class.yd-book-item",
+            "bookUrl": "tag.a@href",
+            "coverUrl": "tag.img@src",
+            "lastChapter": "class.summery@text",
+            "name": "tag.h2.0@text"
+        },
+        "ruleToc": {
+            "chapterList": "class.directory@tag.li@tag.a",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "-",
+        "weight": 0
+    }
+]
