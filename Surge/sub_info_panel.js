@@ -1,6 +1,5 @@
 /*
-Surge Ultimate Panel (No Node Count)
-Compatible with Surge 5/6
+Surge Panel 
 适配 搬瓦工 Just My Socks
 */
 
@@ -8,18 +7,16 @@ const args = getArgs();
 
 (async () => {
 
-try {
+try{
 
 let traffic = await getTraffic(args.api);
-let ip = await getIP();
-let unlock = await unlockTest();
-let delay = await ping();
+let ipinfo = await getIP();   // 新增：获取IP
 
 let used = traffic.used;
 let total = traffic.total;
 let left = total - used;
 
-let percent = total ? ((used / total) * 100).toFixed(1) : 0;
+let percent = total ? ((used/total)*100).toFixed(1) : 0;
 
 let bar = progress(percent);
 
@@ -33,27 +30,24 @@ let content = [
 `流量 ${size(used)} / ${size(total)}`,
 `剩余 ${size(left)} (${percent}%)`,
 ``,
-`${ip.flag} ${ip.ip}`,
+`IP ${ipinfo.flag} ${ipinfo.ip}`,   // 新增显示
 ``,
-`ChatGPT ${unlock.gpt} Gemini ${unlock.gemini}`,
-`Netflix ${unlock.netflix}`,
-``,
-`延迟 ${delay}ms | 重置 ${reset}天`
+`重置 ${reset}天`
 
 ];
 
 $done({
-title:`机场状态 | ${time}`,
+title:`机场流量 | ${time}`,
 content:content.join("\n"),
 icon:"antenna.radiowaves.left.and.right",
 "icon-color":"#007aff"
 });
 
-} catch(e){
+}catch(e){
 
 $done({
-title:"机场状态",
-content:"脚本执行失败"
+title:"机场流量",
+content:"脚本错误"
 });
 
 }
@@ -102,6 +96,8 @@ resolve({total:0,used:0,reset_day:0});
 
 }
 
+/* 新增：获取IP */
+
 async function getIP(){
 
 return new Promise(resolve=>{
@@ -110,7 +106,7 @@ $httpClient.get({url:"https://ipapi.co/json"},(e,r,d)=>{
 
 try{
 
-let j=JSON.parse(d);
+let j = JSON.parse(d);
 
 resolve({
 ip:j.ip,
@@ -136,60 +132,6 @@ if(!cc) return "🌍";
 return cc.toUpperCase().replace(/./g,
 c=>String.fromCodePoint(127397+c.charCodeAt())
 );
-
-}
-
-async function unlockTest(){
-
-let r={gpt:"❌",gemini:"❌",netflix:"❌"};
-
-try{
-let a=await fetch("https://chat.openai.com");
-if(a.status==200) r.gpt="✅";
-}catch{}
-
-try{
-let a=await fetch("https://gemini.google.com");
-if(a.status==200) r.gemini="✅";
-}catch{}
-
-try{
-let a=await fetch("https://www.netflix.com/title/80018499");
-if(a.status==200) r.netflix="✅";
-}catch{}
-
-return r;
-
-}
-
-async function ping(){
-
-let s=Date.now();
-
-return new Promise(resolve=>{
-
-$httpClient.get({url:"https://www.gstatic.com/generate_204"},()=>{
-
-resolve(Date.now()-s);
-
-});
-
-});
-
-}
-
-function fetch(url){
-
-return new Promise((resolve,reject)=>{
-
-$httpClient.get({url:url},(e,r)=>{
-
-if(e) reject(e);
-else resolve(r);
-
-});
-
-});
 
 }
 
