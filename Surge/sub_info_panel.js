@@ -5,12 +5,14 @@ Surge Panel
 
 const args = getArgs();
 
+let title = args.title || "机场";
+
 (async () => {
 
 try{
 
 let traffic = await getTraffic(args.api);
-let ipinfo = await getIP();   // 新增：获取IP
+let ipinfo = await getIP();
 
 let used = traffic.used;
 let total = traffic.total;
@@ -30,14 +32,14 @@ let content = [
 `流量 ${size(used)} / ${size(total)}`,
 `剩余 ${size(left)} (${percent}%)`,
 ``,
-`IP ${ipinfo.flag} ${ipinfo.ip}`,   // 新增显示
+`IP ${ipinfo.flag} ${ipinfo.ip}`,
 ``,
 `重置 ${reset}天`
 
 ];
 
 $done({
-title:`机场流量 | ${time}`,
+title:`${title}流量 | ${time}`,
 content:content.join("\n"),
 icon:"antenna.radiowaves.left.and.right",
 "icon-color":"#007aff"
@@ -46,7 +48,7 @@ icon:"antenna.radiowaves.left.and.right",
 }catch(e){
 
 $done({
-title:"机场流量",
+title:`${title}流量`,
 content:"脚本错误"
 });
 
@@ -95,8 +97,6 @@ resolve({total:0,used:0,reset_day:0});
 });
 
 }
-
-/* 新增：获取IP */
 
 async function getIP(){
 
